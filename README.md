@@ -1,6 +1,6 @@
 # ErgoDuino
 
-![GitHub](https://img.shields.io/github/license/abr1bus/ergoduino?style=for-the-badge) ![Made with love](https://img.shields.io/badge/made%20with-love-ff69b4?style=for-the-badge&logo=appveyor) ![Made with love](https://img.shields.io/badge/current%20release-v0.1-success?style=for-the-badge&logo=appveyor) [![GitHub forks](https://img.shields.io/github/forks/Abr1bus/ErgoDuino?style=for-the-badge)](https://github.com/Abr1bus/ErgoDuino/network) [![GitHub issues](https://img.shields.io/github/issues/Abr1bus/ErgoDuino?style=for-the-badge)](https://github.com/Abr1bus/ErgoDuino/issues) [![GitHub stars](https://img.shields.io/github/stars/Abr1bus/ErgoDuino?style=for-the-badge)](https://github.com/Abr1bus/ErgoDuino/stargazers)
+![GitHub](https://img.shields.io/github/license/abr1bus/ergoduino?style=for-the-badge) ![Made with love](https://img.shields.io/badge/made%20with-love-ff69b4?style=for-the-badge&logo=github) ![Made with love](https://img.shields.io/badge/current%20release-v0.1-success?style=for-the-badge) [![GitHub forks](https://img.shields.io/github/forks/Abr1bus/ErgoDuino?style=for-the-badge)](https://github.com/Abr1bus/ErgoDuino/network) [![GitHub issues](https://img.shields.io/github/issues/Abr1bus/ErgoDuino?style=for-the-badge)](https://github.com/Abr1bus/ErgoDuino/issues) [![GitHub stars](https://img.shields.io/github/stars/Abr1bus/ErgoDuino?style=for-the-badge)](https://github.com/Abr1bus/ErgoDuino/stargazers)
 
 ![Layout (bad drawing :(  )](/img/ergoduino_layout.png)
 
