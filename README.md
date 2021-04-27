@@ -27,3 +27,7 @@ I started to think about it during the first Covid's quarantime, when I was losi
 # Releases
 
 My very first version is on the repo (dev branch), but I don't know if it's working, so if you want to make it, you should check everything !
+
+## How to contribute
+
+
