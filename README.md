@@ -28,6 +28,12 @@ I started to think about it during the first Covid's quarantime, when I was losi
 
 My very first version is on the repo (dev branch), but I don't know if it's working, so if you want to make it, you should check everything !
 
-## How to contribute
+## Contributing
+
+1. Fork it (<https://github.com/Abr1bus/ErgoDuino>)
+2. Create your feature branch `git checkout -b feature/fooBar`
+3. Commit your changes `git commit -am 'Add some fooBar'`
+4. Push to the branch `git push origin feature/fooBar`
+5. Create a new Pull Request
 
 
